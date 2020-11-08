@@ -1,3 +1,3 @@
 FROM tomcat
-COPY shoppingcart.war /usr/local/tomcat/webapps/:
+COPY shoopingcart.zip /usr/local/tomcat/webapps/
 
